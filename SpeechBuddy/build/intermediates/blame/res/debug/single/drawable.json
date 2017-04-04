@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbuddyiconlarge.png",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\drawable\\speechbuddyiconlarge.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbuddyicon.png",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\drawable\\speechbuddyicon.png"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\disabled_cell_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\disabled_cell_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\red_border_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_cell.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\disable_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_bg_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\cell_bg_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\disabled_cell_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\disabled_cell_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_bg.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\cell_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_bg.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\cell_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbuddyicon.png",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\drawable\\speechbuddyicon.png"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbuddyiconlarge.png",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\drawable\\speechbuddyiconlarge.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_bg_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\cell_bg_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_cell.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\disable_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\deletelist.png",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\drawable\\deletelist.png"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\deletelist.png",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\drawable\\deletelist.png"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border_gray_bg.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\red_border_gray_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border_gray_bg.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\e8d748e82f48b0bf0b88bfab7e7d23c0f1386bc8\\output\\res\\drawable\\red_border_gray_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\addlist.png",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\drawable\\addlist.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\addlist.png",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\drawable\\addlist.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\red_border_dark.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.roomorama\\caldroid\\3.0.1\\res\\drawable\\red_border_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\5c0db03ef0924372ffb85cf26de406d1d1677d57\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\d28d9e57bf1ee19e7e29cfc1315614c499804f92\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    }
+]

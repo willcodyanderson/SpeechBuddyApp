@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

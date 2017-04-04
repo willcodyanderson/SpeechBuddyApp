@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="william.anderson.LogIn">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_an_email2"
+        android:inputType="textEmailAddress"
+        android:layout_below="@+id/toolbar"/>
+
+    <EditText
+        android:id="@+id/passwordNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter a Password"
+        android:inputType="textPassword"
+        android:layout_below="@+id/email"/>
+
+    <Button
+        android:id="@+id/signupB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_marginTop="@dimen/textsize50"
+        android:layout_marginLeft="@dimen/textsize50"
+        android:layout_marginRight="@dimen/textsize50"
+        android:background="@color/buttoncolor"
+        android:textColor="@color/white"
+        android:layout_below="@+id/passwordNew"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="132dp"
+        app:srcCompat="@drawable/speechbuddyiconlarge"
+        android:layout_marginLeft="@dimen/textsize10"
+        android:id="@+id/imageView"
+        android:layout_marginTop="@dimen/textsize60"
+        android:layout_below="@+id/signupB"/>
+
+</RelativeLayout>
+

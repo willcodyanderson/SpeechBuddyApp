@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\TsarVadim\\.android\\build-cache\\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

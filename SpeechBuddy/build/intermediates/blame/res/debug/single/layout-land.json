@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_about.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\layout-land\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_item_view.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\layout-land\\activity_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_signup.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\layout-land\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_about.xml",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\layout-land\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_item_view.xml",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\layout-land\\activity_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_all_lists.xml",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\layout-land\\activity_all_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_signup.xml",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\layout-land\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_log_in.xml",
+        "source": "C:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\src\\main\\res\\layout-land\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_log_in.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\layout-land\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_all_lists.xml",
+        "source": "C:\\Users\\William\\Desktop\\Android\\CourseApps\\Testing\\SpeechBuddyFinal\\src\\main\\res\\layout-land\\activity_all_lists.xml"
+    }
+]

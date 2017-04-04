@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addList"
+        android:icon="@drawable/addlist"
+        app:showAsAction="always"
+        android:title="addList">
+    </item>
+    <item
+        android:id="@+id/deleteList"
+        android:icon="@drawable/deletelist"
+        app:showAsAction="always"
+        android:title="addList">
+    </item>
+    <item
+        android:id="@+id/refreshList"
+        android:icon="@drawable/refresh"
+        app:showAsAction="always"
+        android:title="refreshList">
+    </item>
+
+    <item
+        android:id="@+id/lists"
+        app:showAsAction="never"
+        android:title="Your Lists">
+    </item>
+    <item
+        android:id="@+id/clear"
+        app:showAsAction="never"
+        android:title="Clear Data">
+    </item>
+    <item
+        android:id="@+id/about"
+        app:showAsAction="never"
+        android:title="About App">
+    </item>
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="never"
+        android:title="Logout">
+    </item>
+</menu>

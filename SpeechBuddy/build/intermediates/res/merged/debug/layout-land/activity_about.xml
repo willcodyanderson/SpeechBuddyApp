@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:weightSum="1">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        />
+
+
+    <TextView
+    android:text="About Speech Buddy"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/textView"
+    android:textSize="@dimen/textsize30"
+    android:textColor="@color/textColor"
+    android:textAlignment="textStart"
+    android:layout_marginTop="50dp"/>
+    <TextView
+        android:text="By Arrested Developers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="20dp"
+        android:textColor="@color/textColor"
+        android:textAlignment="textStart"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:text="William Anderson, Sanjay Jerad and Keving Dang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:textSize="16dp"
+        android:textColor="@color/textColor"
+        android:textAlignment="textStart"></TextView>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="232dp"
+                android:text="Speech Buddy is a companion application for the Hardware designed by the Arrested Developers, a device that listens to user voice input, parses the commands and responds dependent on it's data. This Companion App Allows for the modification of Data in Speech Buddy's memory, so the next time you ask him what's on the grocery list, it will provide you with anyupdates you made within the application. Perfect for on the go when you cannot acces your Speech Buddy."
+                android:textSize="16dp"
+                android:textColor="@color/textColor"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="60dp"
+                android:layout_weight="0.02" />
+    </LinearLayout>
+

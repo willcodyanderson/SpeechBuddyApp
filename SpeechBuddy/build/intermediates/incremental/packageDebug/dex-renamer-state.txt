@@ -1,0 +1,7 @@
+#Mon Apr 03 19:30:22 EDT 2017
+base.0=C\:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_690d5241372632fed56fe6b7929ecd6dfc74fd4d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6172f893aa82f04afd592fadd19189a6d226cbda\\classes.dex
+base.1=C\:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6172f893aa82f04afd592fadd19189a6d226cbda
+file.0=C\:\\Users\\TsarVadim\\AndroidStudioProjects\\SpeechBuddy\\SpeechBuddy\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_690d5241372632fed56fe6b7929ecd6dfc74fd4d\\classes.dex
