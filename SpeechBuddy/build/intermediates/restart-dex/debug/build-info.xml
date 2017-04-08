@@ -6,22 +6,22 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1491265404183"
+    timestamp="1491655967296"
     token="2472912048718209319"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="945" />
+        duration="312" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="68" />
+        duration="22" />
     <task
         name="verifier"
-        duration="17" />
+        duration="4" />
 
     <artifact
         location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -32,8 +32,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1491262341171"
+        timestamp="1491652027204"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\outputs\apk\SpeechBuddy-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
@@ -67,13 +70,10 @@
         <artifact
             location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\outputs\apk\SpeechBuddy-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1491265283728"
+        timestamp="1491655915234"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\outputs\apk\SpeechBuddy-debug.apk"
@@ -81,7 +81,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1491265404183"
+        timestamp="1491655967296"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\build\intermediates\split-apk\debug\slices\slice_3.apk"

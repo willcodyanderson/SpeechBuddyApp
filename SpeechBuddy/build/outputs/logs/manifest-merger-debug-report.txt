@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\
 		INJECTED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:design:25.0.1] C:\Users\TsarVadim\.android\build-cache\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\TsarVadim\.android\build-cache\5c0db03ef0924372ffb85cf26de406d1d1677d57\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\TsarVadim\.android\build-cache\15675379f65f275c7a84fb6cacb256d080067121\output\AndroidManifest.xml:22:5-20
@@ -48,12 +48,12 @@ MERGED from [com.android.support:support-compat:25.0.1] C:\Users\TsarVadim\.andr
 		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:10:9-40
 	android:name
 		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:11:9-44
-activity#william.anderson.LogIn
+activity#william.anderson.ViewLists
 ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:13:9-19:20
 	android:label
-		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:13:41-69
+		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:13:45-73
 	android:name
-		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:13:19-40
+		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:13:19-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
@@ -72,14 +72,6 @@ activity#william.anderson.About
 ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:21:9-42
 	android:name
 		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:21:19-40
-activity#william.anderson.ViewLists
-ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:22:9-28:20
-	android:name
-		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:22:19-44
-activity#william.anderson.Signup
-ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:29:9-53
-	android:name
-		ADDED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml:29:19-41
 uses-sdk
 INJECTED from C:\Users\TsarVadim\AndroidStudioProjects\SpeechBuddy\SpeechBuddy\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.0.1] C:\Users\TsarVadim\.android\build-cache\2cf4f1d46a905195d05a9e0fb284df6f32f9c241\output\AndroidManifest.xml:21:5-23:62

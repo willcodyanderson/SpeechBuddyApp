@@ -28,7 +28,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="william.anderson.LogIn"
+            android:name="william.anderson.ViewLists"
             android:label="Speech Buddy" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,17 +38,6 @@
         </activity>
         <activity android:name="william.anderson.ItemView" />
         <activity android:name="william.anderson.About" />
-        <activity android:name="william.anderson.ViewLists" >
-
-            <!--
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            -->
-        </activity>
-        <activity android:name="william.anderson.Signup" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

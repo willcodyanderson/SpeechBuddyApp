@@ -63,8 +63,8 @@ public class ViewLists extends AppCompatActivity {
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, values);
         listview = (ListView) findViewById(R.id.list2);
         listview.setAdapter(adapter);
-        Toast.makeText(this, "worked", Toast.LENGTH_LONG).show();
-        //Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
+
+
 
         listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id)
@@ -170,8 +170,8 @@ public class ViewLists extends AppCompatActivity {
                 break;
             case R.id.logout: //logout and back to login screen
 
-                mFirebaseAuth.signOut();
-                loadLogInView();
+//                mFirebaseAuth.signOut();
+//                loadLogInView();
 
                 break;
 
@@ -220,10 +220,10 @@ public class ViewLists extends AppCompatActivity {
 //        datasource.close();
         super.onPause();
     }
-    private void loadLogInView() {
-        Intent intent = new Intent(this, LogIn.class);
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-        startActivity(intent);
-    }
+//    private void loadLogInView() {
+//        Intent intent = new Intent(this, LogIn.class);
+//        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//        startActivity(intent);
+//    }
 }
